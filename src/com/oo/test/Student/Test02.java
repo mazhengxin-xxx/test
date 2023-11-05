@@ -22,5 +22,7 @@ public class Test02 {
         }*/
         Student student = Test01.selectOne(4);
         System.out.println(student.getAge());
+
+
     }
 }
